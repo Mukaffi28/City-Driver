@@ -1,5 +1,5 @@
 # City-Driver
-CSE:1200 Software Development Project- I (Igraphics Project)
+CSE:1200 Software Development Project- I (Igraphics Project) (AUST)
 
 ## Description:
  It is an exciting 2D car racing game where the game is basically contains 2 different level.
